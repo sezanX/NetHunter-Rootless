@@ -29,7 +29,7 @@ $ `bash install-nethunter-termux`
 `rm -rf kalifs-arm64-full.tar.xz kalifs-arm64-full.sha512sum install-nethunter-termux`
 
 ----
-
+![alt (https://github.com/sezanX/NetHunter-Rootless/blob/46ff90854b234641a7ed154e06472ea5e3ec0cfa/Usage.jpg)
 
 ----
 # Tutorial : 
