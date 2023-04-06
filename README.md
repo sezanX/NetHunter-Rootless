@@ -30,7 +30,7 @@ $ `bash install-nethunter-termux`
 <br>
 
 <centre>
-<img src="https://github.com/adarshaddee/root/blob/main/images/Img2.jpg" alt="root termux" title="root termux" width="100%" />
+<img src="https://github.com/sezanX/NetHunter-Rootless/blob/46ff90854b234641a7ed154e06472ea5e3ec0cfa/Usage.jpg" alt="root termux" title="root termux" width="100%" />
 </centre>
 <br>
 
