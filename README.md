@@ -23,6 +23,12 @@ $ `chmod +x install-nethunter-termux`
 
 $ `bash install-nethunter-termux`
 
+---
+# Remove extra files :
+
+`rm -rf kalifs-arm64-full.tar.xz kalifs-arm64-full.sha512sum install-nethunter-termux`
+
+----
 
 
 ----
