@@ -27,11 +27,13 @@ $ `bash install-nethunter-termux`
 # Remove extra files :
 
 `rm -rf kalifs-arm64-full.tar.xz kalifs-arm64-full.sha512sum install-nethunter-termux`
+<br>
 
-----
-![alt (https://github.com/sezanX/NetHunter-Rootless/blob/46ff90854b234641a7ed154e06472ea5e3ec0cfa/Usage.jpg)
+<centre>
+<img src="https://github.com/adarshaddee/root/blob/main/images/Img2.jpg" alt="root termux" title="root termux" width="100%" />
+</centre>
+<br>
 
-----
 # Tutorial : 
 
 -----
